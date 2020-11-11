@@ -1,16 +1,5 @@
-# React-Static - Basic Template
+# React-Static Github Pages Example
 
-To use this template, run `react-static create` and use the `basic` template.
+This repository shows an example of a basic [react-static](https://github.com/nozzle/react-static) boilerplate application deployed to [Github pages](https://pages.github.com/).
 
-# How to Update
-
-1. Make your changes
-1. `npm run build` to compile changes into the `dist` folder
-1. `npm run serve` to view changes locally
-1. `npm run deploy` to deploy those changes to the `gh-pages` remote branch
-
-# CNAME Stuff
-
-1. Create CNAME record in DNS provider with `www` --> `briguy52.github.io`
-1. Go into repo settings and make sure it's using `gh-pages` branch and has the CNAME
-1. Check to see if the CNAME file in this repo got updated
+The site is available at: [https://ninaolo.github.io/react-static-github-pages-example](https://ninaolo.github.io/react-static-github-pages-example).

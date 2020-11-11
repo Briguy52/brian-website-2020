@@ -1,4 +1,3 @@
-import path from 'path'
 import axios from 'axios'
 
 export default {
@@ -8,34 +7,34 @@ export default {
     title: 'Brian Lin',
   }),
   getRoutes: async () => {
-    const { data: posts } = await axios.get(
-      'https://jsonplaceholder.typicode.com/posts'
-    )
-
+    const { data: posts } = await axios.get('https://jsonplaceholder.typicode.com/posts')
     return [
       {
+        path: '/',
+        component: 'src/containers/Home',
+      },
+      {
+        path: '/about',
+        component: 'src/containers/About',
+      },
+      {
         path: '/blog',
+        component: 'src/containers/Blog',
         getData: () => ({
           posts,
         }),
         children: posts.map(post => ({
           path: `/post/${post.id}`,
-          template: 'src/containers/Post',
+          component: 'src/containers/Post',
           getData: () => ({
             post,
           }),
         })),
       },
+      {
+        is404: true,
+        component: 'src/containers/404',
+      },
     ]
   },
-  plugins: [
-    [
-      require.resolve('react-static-plugin-source-filesystem'),
-      {
-        location: path.resolve('./src/pages'),
-      },
-    ],
-    require.resolve('react-static-plugin-reach-router'),
-    require.resolve('react-static-plugin-sitemap'),
-  ],
 }

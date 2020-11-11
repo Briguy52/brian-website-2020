@@ -1,0 +1,62 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "index.js",
+  "siteRoot": "https://briguy52.github.io",
+  "basePath": "brian-website-2020",
+  "plugins": [
+    [
+      "/Users/BrianLin/GitHub/brian-website-2020/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      {
+        "location": "/Users/BrianLin/GitHub/brian-website-2020/src/pages"
+      }
+    ],
+    "/Users/BrianLin/GitHub/brian-website-2020/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/BrianLin/GitHub/brian-website-2020/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "/Users/BrianLin/GitHub/brian-website-2020"
+  ],
+  "paths": {
+    "ROOT": "/Users/BrianLin/GitHub/brian-website-2020",
+    "SRC": "/Users/BrianLin/GitHub/brian-website-2020/src",
+    "DIST": "/Users/BrianLin/GitHub/brian-website-2020/dist",
+    "ASSETS": "/Users/BrianLin/GitHub/brian-website-2020/dist",
+    "PLUGINS": "/Users/BrianLin/GitHub/brian-website-2020/plugins",
+    "TEMP": "/Users/BrianLin/GitHub/brian-website-2020/tmp",
+    "ARTIFACTS": "/Users/BrianLin/GitHub/brian-website-2020/artifacts",
+    "PUBLIC": "/Users/BrianLin/GitHub/brian-website-2020/public",
+    "NODE_MODULES": "/Users/BrianLin/GitHub/brian-website-2020/node_modules",
+    "EXCLUDE_MODULES": "/Users/BrianLin/GitHub/brian-website-2020/node_modules",
+    "PACKAGE": "/Users/BrianLin/GitHub/brian-website-2020/package.json",
+    "HTML_TEMPLATE": "/Users/BrianLin/GitHub/brian-website-2020/dist/index.html",
+    "STATIC_DATA": "/Users/BrianLin/GitHub/brian-website-2020/dist/staticData"
+  },
+  "publicPath": "https://briguy52.github.io/brian-website-2020/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}

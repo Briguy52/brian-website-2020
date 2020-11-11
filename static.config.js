@@ -3,7 +3,7 @@ import axios from 'axios'
 
 export default {
   siteRoot: "https://briguy52.github.io",
-  basePath: "brian-website-2020",
+  basePath: "briguy52.github.io",
   getSiteData: () => ({
     title: 'Brian Lin',
   }),

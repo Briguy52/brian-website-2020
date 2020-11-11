@@ -1,13 +1,13 @@
 {
   "errors": [],
   "warnings": [
-    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.9409bee2.js (244 KiB)"
+    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.3a06a491.js (244 KiB)"
   ],
   "version": "4.44.2",
-  "hash": "d311e8275f4b5b10e876",
-  "time": 2467,
-  "builtAt": 1605125806531,
-  "publicPath": "https://briguy52.github.io/brian-website-2020/",
+  "hash": "73c97046aa3f7d15c196",
+  "time": 2423,
+  "builtAt": 1605126444886,
+  "publicPath": "https://briguy52.github.io/briguy52.github.io/",
   "outputPath": "/Users/BrianLin/Desktop/GitHub/briguy52.github/dist",
   "assetsByChunkName": {
     "__react_static_root__/src/containers/Post": "templates/__react_static_root__/src/containers/Post.629b9bde.js",
@@ -15,16 +15,16 @@
     "__react_static_root__/src/pages/about": "templates/__react_static_root__/src/pages/about.18c36486.js",
     "__react_static_root__/src/pages/blog": "templates/__react_static_root__/src/pages/blog.8f139eeb.js",
     "__react_static_root__/src/pages/index": "templates/__react_static_root__/src/pages/index.62bb425b.js",
-    "main": "main.3c5810b8.js",
+    "main": "main.c02ee493.js",
     "styles": [
       "styles.82b2ee7c.css",
       "templates/styles.ddeb0f74.js"
     ],
-    "vendors~main": "templates/vendors~main.9409bee2.js"
+    "vendors~main": "templates/vendors~main.3a06a491.js"
   },
   "assets": [
     {
-      "name": "main.3c5810b8.js",
+      "name": "main.c02ee493.js",
       "size": 7406,
       "chunks": [
         5
@@ -136,7 +136,7 @@
       "emitted": true
     },
     {
-      "name": "templates/vendors~main.9409bee2.js",
+      "name": "templates/vendors~main.3a06a491.js",
       "size": 250333,
       "chunks": [
         7
@@ -162,8 +162,8 @@
       "assets": [
         "styles.82b2ee7c.css",
         "templates/styles.ddeb0f74.js",
-        "templates/vendors~main.9409bee2.js",
-        "main.3c5810b8.js"
+        "templates/vendors~main.3a06a491.js",
+        "main.c02ee493.js"
       ],
       "children": {},
       "childAssets": {}
@@ -179,8 +179,8 @@
       "assets": [
         "styles.82b2ee7c.css",
         "templates/styles.ddeb0f74.js",
-        "templates/vendors~main.9409bee2.js",
-        "main.3c5810b8.js"
+        "templates/vendors~main.3a06a491.js",
+        "main.c02ee493.js"
       ],
       "children": {},
       "childAssets": {}
@@ -767,9 +767,9 @@
         "main"
       ],
       "files": [
-        "main.3c5810b8.js"
+        "main.c02ee493.js"
       ],
-      "hash": "8cb21bca840fad1f8ac2",
+      "hash": "d6b677f74858304b9777",
       "siblings": [
         6,
         7
@@ -1622,9 +1622,9 @@
         "vendors~main"
       ],
       "files": [
-        "templates/vendors~main.9409bee2.js"
+        "templates/vendors~main.3a06a491.js"
       ],
-      "hash": "3fa5f29e4527d7e98af8",
+      "hash": "3863cfe18364f9549c9f",
       "siblings": [
         5,
         6
@@ -3102,9 +3102,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -3676,9 +3676,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "issuerId": 57,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "issuerId": 113,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 56,
@@ -3686,9 +3686,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -3801,9 +3801,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -3912,9 +3912,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -4463,9 +4463,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6003,9 +6003,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6064,9 +6064,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-          "issuerId": 79,
-          "issuerName": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+          "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+          "issuerId": 27,
+          "issuerName": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
           "issuerPath": [
             {
               "id": 56,
@@ -6074,9 +6074,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6084,14 +6084,14 @@
               "name": "../lib/browser/index.js"
             },
             {
-              "id": 78,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/toConsumableArray.js",
-              "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/toConsumableArray.js"
+              "id": 8,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/slicedToArray.js",
+              "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/slicedToArray.js"
             },
             {
-              "id": 79,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-              "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js"
+              "id": 27,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+              "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
             }
           ],
           "failed": false,
@@ -6150,9 +6150,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6216,9 +6216,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6287,9 +6287,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6353,9 +6353,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6419,9 +6419,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6495,9 +6495,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6576,9 +6576,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6652,9 +6652,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6799,9 +6799,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6880,9 +6880,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6966,9 +6966,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -7042,9 +7042,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -7118,9 +7118,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8937,9 +8937,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8999,9 +8999,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9061,9 +9061,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9123,9 +9123,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9180,9 +9180,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9242,9 +9242,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9304,9 +9304,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9366,9 +9366,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9428,9 +9428,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9495,9 +9495,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9567,9 +9567,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9639,9 +9639,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9716,9 +9716,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9788,9 +9788,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9865,9 +9865,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9947,9 +9947,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10024,9 +10024,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10106,9 +10106,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10188,9 +10188,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10265,9 +10265,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10342,9 +10342,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10419,9 +10419,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10486,9 +10486,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10553,9 +10553,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10615,9 +10615,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10680,9 +10680,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 57,
-              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -13873,9 +13873,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14447,9 +14447,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-      "issuerId": 57,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+      "issuerId": 113,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 56,
@@ -14457,9 +14457,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -14572,9 +14572,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14683,9 +14683,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -15381,9 +15381,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17152,9 +17152,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17213,9 +17213,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-      "issuerId": 79,
-      "issuerName": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "issuer": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+      "issuerId": 27,
+      "issuerName": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
       "issuerPath": [
         {
           "id": 56,
@@ -17223,9 +17223,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17233,14 +17233,14 @@
           "name": "../lib/browser/index.js"
         },
         {
-          "id": 78,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/toConsumableArray.js",
-          "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/toConsumableArray.js"
+          "id": 8,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/slicedToArray.js",
+          "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/slicedToArray.js"
         },
         {
-          "id": 79,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-          "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js"
+          "id": 27,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+          "name": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
         }
       ],
       "failed": false,
@@ -17299,9 +17299,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17365,9 +17365,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17436,9 +17436,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17502,9 +17502,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17568,9 +17568,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17644,9 +17644,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17725,9 +17725,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17801,9 +17801,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17948,9 +17948,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18029,9 +18029,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18115,9 +18115,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18191,9 +18191,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18267,9 +18267,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20517,9 +20517,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20579,9 +20579,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20641,9 +20641,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20703,9 +20703,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20760,9 +20760,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20822,9 +20822,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20884,9 +20884,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20946,9 +20946,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21008,9 +21008,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21075,9 +21075,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21147,9 +21147,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21219,9 +21219,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21296,9 +21296,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21368,9 +21368,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21445,9 +21445,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21527,9 +21527,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21604,9 +21604,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21686,9 +21686,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21768,9 +21768,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21845,9 +21845,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21922,9 +21922,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21999,9 +21999,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22066,9 +22066,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22133,9 +22133,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22195,9 +22195,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22260,9 +22260,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 57,
-          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-hot-loader/webpack.js!/Users/BrianLin/Desktop/GitHub/briguy52.github/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -24291,7 +24291,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "https://briguy52.github.io/brian-website-2020/",
+      "publicPath": "https://briguy52.github.io/briguy52.github.io/",
       "outputPath": "/Users/BrianLin/Desktop/GitHub/briguy52.github/dist",
       "assetsByChunkName": {},
       "assets": [],
@@ -24333,7 +24333,7 @@
           "files": [
             "*"
           ],
-          "hash": "ecdd5d8295940158ec6c",
+          "hash": "e7c528401f3e3b78e5d4",
           "siblings": [],
           "parents": [],
           "children": [],

@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import { withSiteData } from 'react-static'
 //
 

@@ -17,3 +17,18 @@ $ npm-check-updates -u
 $ npm install
 ```
 
+# Run locally
+
+```
+npm run start
+```
+
+Then visit `localhost:3000`
+
+# Deploy to GitHub pages
+
+Note: we use the `gh-pages` branch to deploy and the `main` branch for development.
+
+When you're ready to deploy, merge `main` into `gh-pages`.
+
+Then run `npm run deploy` in the `gh-pages` branch.

@@ -50,8 +50,25 @@ nav a {
 }
 
 .welcome-card {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  text-align: center;
+  
   margin-top: 30vh;
-  background: white;
-  height: 32vh;
-  width: 18vw;
+  background: black;
+  width: 480px;
+  height: 287px;
+}
+
+.text-area {
+  margin: 2vw;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
 }

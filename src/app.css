@@ -50,13 +50,9 @@ nav a {
 }
 
 .welcome-card {
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
-  text-align: center;
-  
+  border-radius: 6px;
   margin-top: 30vh;
-  background: black;
+  background: whitesmoke;
   width: 480px;
   height: 287px;
 }
@@ -65,10 +61,24 @@ nav a {
   margin: 2vw;
 }
 
-h1 {
-  color: white;
+a {
+  color: black;
+  font-weight: normal;
+  text-decoration: underline;
 }
 
-p {
-  color: white;
+a:hover {
+  font-weight: bolder;
+}
+
+.card-title {
+  text-align: center;
+  color: black;
+  font-family: 'Larsseit', sans-serif;
+}
+
+.card-text {
+  margin-top: 2em;
+  color: black;
+  font-family: 'Inconsolata', monospace;
 }
